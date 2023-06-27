@@ -7,7 +7,7 @@
 
 ## Ссылки на проект
 
-IP-адрес 158.160.43.150
+IP 158.160.43.150
 
 Frontend https://mesto.volodina.students.nomoreparties.sbs/
 
