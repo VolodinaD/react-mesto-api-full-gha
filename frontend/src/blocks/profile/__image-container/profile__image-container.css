@@ -1,0 +1,16 @@
+.profile__image-container {
+    min-width: 120px;
+    max-width: 38vw;
+    aspect-ratio: 1 / 1;
+    background-color: #000000;
+    background-image: url(../../../images/avatar-edit-icon.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 50%;
+}
+
+@media all and (min-width: 940px) {
+    .profile__image-container {
+        max-width: 120px;
+    }   
+}

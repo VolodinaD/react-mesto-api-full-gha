@@ -1,0 +1,19 @@
+.profile__grid {
+    display: grid;
+    grid-template-columns: 18px auto 18px;
+    grid-template-areas: ". ttl btn";
+    column-gap: 10px;
+    justify-content: center;
+    padding-top: 24px;
+}
+
+@media all and (min-width: 940px) {
+    .profile__grid {
+        grid-template-columns: auto 24px;
+        grid-template-areas: "ttl btn";
+        column-gap: 18px;
+        justify-content: start;
+        padding-top: 0;
+        padding-left: 30px;
+    }  
+}

@@ -1,0 +1,17 @@
+.footer {
+    margin: 48px 0 36px 19px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    color: #545454;
+}
+
+@media all and (min-width: 940px) {
+    .footer {
+        margin-top: 67px;
+        margin-bottom: 60px;
+        margin-left: calc((100vw - 880px) / 2);
+        font-size: 18px;
+        line-height: 22px;
+    }  
+}

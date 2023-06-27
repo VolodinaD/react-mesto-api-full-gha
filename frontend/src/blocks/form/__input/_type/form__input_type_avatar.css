@@ -1,0 +1,5 @@
+@media all and (max-width: 619px) {
+    .form__input_type_avatar {
+        margin-top: -10px;
+    }  
+}

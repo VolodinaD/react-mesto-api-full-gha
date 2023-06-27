@@ -1,0 +1,13 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    max-width: 238px;
+    margin: 0 auto;
+}
+
+@media all and (min-width: 619px) {
+    .form {
+        max-width: 358px;
+    }    
+}

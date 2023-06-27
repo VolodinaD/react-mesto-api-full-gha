@@ -1,0 +1,8 @@
+.element__info {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    height: calc(361px - 282px);
+    margin: auto 19px auto 21px;
+}

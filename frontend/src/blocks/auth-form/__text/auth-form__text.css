@@ -1,0 +1,15 @@
+.auth-form__text {
+    width: 215px;
+    margin-top: 15px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    color: #FFFFFF;
+    text-align: center;
+    text-decoration: none;
+}
+
+.auth-form__text:hover {
+    cursor: pointer;
+    opacity: 0.6;
+}

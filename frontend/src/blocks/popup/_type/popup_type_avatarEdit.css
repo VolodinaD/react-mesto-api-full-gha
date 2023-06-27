@@ -1,0 +1,9 @@
+.popup_type_avatarEdit {
+    max-height: 272px;
+}
+
+@media all and (max-width: 619px) {
+    .popup_type_avatarEdit {
+        max-height: 255px;
+    }  
+}

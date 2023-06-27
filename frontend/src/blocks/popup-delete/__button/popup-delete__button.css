@@ -1,0 +1,18 @@
+.popup-delete__button {
+    width: calc(100% - 36px * 2);
+    height: 50px;
+    margin: 34px 0 0 36px;
+    background-color: #000000;
+    border-radius: 2px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22px;
+    text-align: center;
+}
+
+.popup-delete__button:hover {
+    cursor: pointer;
+    opacity: 0.8;
+}
